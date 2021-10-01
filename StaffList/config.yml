@@ -1,0 +1,19 @@
+# Reecepbcups#3370
+# Make sure groups are in order of how you want
+# REQUIRES LUCKPERMS
+
+# /staff, /list, /slist - no permission
+#
+# /staff reload - stafflist.admin
+# /staff groups - stafflist.admin
+
+groups:
+  owner: ' &8&l<&d&lOWNER&8&l> &f» &d'
+  manager: ' &8&l<&6&lMANAGER&8&l> &f» &6'
+  developer: ' &8&l<&b&lDEVELOPER&8&l> &f» &b'
+  admin: ' &8&l<&c&lADMIN&8&l> &f» &c'
+  srmoderator: ' &8&l<&9&lSRMOD&8&l> &f» &9'
+  moderator: ' &8&l<&e&lMOD&8&l> &f» &e'
+  helper: ' &8&l<&a&lHELPER&8&l> &f» &a'
+  builder: ' &8&l<&3&lBUILDER&8&l> &f» &3'
+  staffafk: ' &8&l<&7&lSTAFF-AFK&8&l> &f» &7'

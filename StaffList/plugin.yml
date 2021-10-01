@@ -1,0 +1,12 @@
+name: StaffList
+version: 1.0
+author: Reecepbcups
+main: sh.reece.stafflist.Main
+description: Allows for you to see which staff are online
+softdepend: [Essentials, SuperVanish]
+depend: [LuckPerms]
+
+commands:
+  stafflist:
+    description: show all online staff and/or player ranks. (Requires luckperms)
+    aliases: [list, slist, staff] 
